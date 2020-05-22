@@ -1,0 +1,28 @@
+﻿GUIDELINES TO RUN APP:
+================================================================================
+
+1. Enter 1 to Start - Finding Palindrome i.e Keypress 1 and then press Enter key
+2. Enter String separated by a space.
+Eg: stringA stringB stringC 
+ and then press Enter
+
+3. If Palindrome is present then that string is/are printed on Console.
+4. Otherwise Palindrome not present is printed on Console.
+5. To exit application Key press 2 and then press Enter key.
+6. To Continue, Enter key 1 and then press Enter.
+
+==================================================================================
+Test 1: 
+Press 1 and Enter
+
+Madam Run Name String
+
+Output : Madam is a Palindrome
+----------------------------------------------------------------------------------
+Test 2: 
+Press 1 and Enter
+
+Sun Run Name String
+
+Output : Palindrome not present.
+---------------------------------------------------------------------------------
