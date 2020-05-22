@@ -1,0 +1,10 @@
+H:\FindPalindromes\FindPalindromes\bin\Debug\netcoreapp1.1\FindPalindromes.deps.json
+H:\FindPalindromes\FindPalindromes\bin\Debug\netcoreapp1.1\FindPalindromes.runtimeconfig.json
+H:\FindPalindromes\FindPalindromes\bin\Debug\netcoreapp1.1\FindPalindromes.runtimeconfig.dev.json
+H:\FindPalindromes\FindPalindromes\bin\Debug\netcoreapp1.1\FindPalindromes.dll
+H:\FindPalindromes\FindPalindromes\bin\Debug\netcoreapp1.1\FindPalindromes.pdb
+H:\FindPalindromes\FindPalindromes\obj\Debug\netcoreapp1.1\FindPalindromes.csproj.CoreCompileInputs.cache
+H:\FindPalindromes\FindPalindromes\obj\Debug\netcoreapp1.1\FindPalindromes.AssemblyInfo.cs
+H:\FindPalindromes\FindPalindromes\obj\Debug\netcoreapp1.1\FindPalindromes.dll
+H:\FindPalindromes\FindPalindromes\obj\Debug\netcoreapp1.1\FindPalindromes.pdb
+H:\FindPalindromes\FindPalindromes\obj\Debug\netcoreapp1.1\FindPalindromes.csprojResolveAssemblyReference.cache
